@@ -1,2 +1,2 @@
-# smart-scan-scis
+# smart-scan
 SMART SCAN
